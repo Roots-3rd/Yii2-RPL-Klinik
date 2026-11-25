@@ -14,6 +14,7 @@ use common\assets\ColorModeAsset;
 use yii\bootstrap5\BootstrapAsset;
 use yii\web\AssetBundle;
 use yii\web\YiiAsset;
+use yii\help\ArrayHelper;
 
 /**
  * Main backend application asset bundle.
